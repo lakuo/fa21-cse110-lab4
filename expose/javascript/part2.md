@@ -29,3 +29,7 @@
     e) false, true == 1.
     f) true, both sides are same type and #>0 is for Boolean(#) is true.
 15. == type converts and checks whereas === requires both sides to be of the same type.
+16. (Check part2-question16.js)
+17. [2,4,6] is returned. First, the array parameter is passed into modifyArray and in iterates through a for loop that passes the respective value to the function doSomething, which was correlated with callback function. This doubles the number and stores it in newArr.
+18. (Check part2-question18.js)
+19. 1 4 3 2
